@@ -26,9 +26,8 @@ Ao concluir este desafio, pude:
 
 ## Estrutura do Repositório
 ```
-📦 desafio-ia-azure-dio        
- ┣ 📜 README.md       
- ┗ 📜 insights.md
+📦 Desafio-de-Inteligencia-Artificial-DIO       
+ ┗   📜 README.md
 ```
 
 ## Etapas Realizadas
@@ -63,3 +62,4 @@ A experiência ajudou a reforçar conceitos de Processamento de Linguagem Natura
 [Documentação oficial Language Studio](https://learn.microsoft.com/azure/cognitive-services/language-service/)
 
 [GitHub Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
